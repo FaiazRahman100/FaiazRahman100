@@ -8,7 +8,7 @@ I’m currently working at **BJIT Limited as a Software Engineer (iOS Developer)
 
 ## 🧠 What I'm currently learning
 
-🌱 I’m currently learning `Terraform, AWS, Cloud Infrastructure, Docker, Kubernetes` to to enhance my development abilities and stay current with the evolving technology.
+🌱 I’m currently learning `Combine, OpenSSL, ASN.1, and Crypto` to enhance my development abilities and stay current with the evolving technology.
 
 ## 📫 How to reach me
 
@@ -28,7 +28,7 @@ I’m currently working at **BJIT Limited as a Software Engineer (iOS Developer)
 `- BJIT Academy, [Trainee Software Engineer (iOS Developer)], [Nov, 2022 - Feb,2023]` <br>
      
 `- sideSkill BD, [Content Creator], [Jan 2019 -Feb 2022]` <br>
-Managed and operated ”sideSkill BD” YouTube channel, showcasing technical expertise in programming and software through uploading
+Managed and operated the "sideSkill BD” YouTube channel, showcasing technical expertise in programming and software through uploading
 tutorials, tips, and tricks videos. <br>
 
 ## 🎓 Education
@@ -55,10 +55,10 @@ A dynamic iOS news app that offers users the latest news across various topics w
              • NewsAPI.org API for real-time news articles and features pagination for enhanced browsing. <br>
 `- BJIT Xpress - Bus seat booking app for iOS devices` - `2023` <br>
 An intuitive app enabling users to view and book available seats on, check bus availability, and access booking history. Provides real-time information on seats booked by other passengers. <br>
-             • Technology used: SwiftUI, CoreLocation, CoreData and CloudKit. <br>
-             • SwiftUI for modern and declarative user interface development. <br>
+             • Technology used: SwiftUI, CoreLocation, CoreData, and CloudKit. <br>
+             • SwiftUI for modern and declarative user interface development. <br>
 `- Basha Koi - Rental Property Finder` - `2021` <br>
-”Basha Koi” helps users to easily search for addresses, square footage, house numbers, and rental prices in various areas, simplifying the process of finding their ideal rental property. <br>
+”Basha Koi” helps users easily search for addresses, square footage, house numbers, and rental prices in various areas, simplifying the process of finding their ideal rental property. <br>
              • Technology used: UIKit, CoreData. <br>
 
 ## 📝 Publication
@@ -68,7 +68,7 @@ An intuitive app enabling users to view and book available seats on, check bus a
 ## 🏆 Achievements
 
 - Awarded Dean’s Scholarship East West University (Occupied this scholarship for being one of the top performers of the batch)
-- Published a paper in International Conference on Computer and Information Technology held by IEEE.
+- Published a paper at the International Conference on Computer and Information Technology held by IEEE.
 
 ## 📈 GitHub Stats
 
