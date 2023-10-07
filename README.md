@@ -1,5 +1,3 @@
-![MasterHead](https://goodrequest-web-development.s3.eu-central-1.amazonaws.com/61d30e50cb8adf3ea20468a1_How_20to_20start_20i_OS_20development_88f0dd893a.jpg)
-
 <h1 align="center">Hi 👋, I'm Faiaz Rahman</h1>
 <h3 align="center">Software Enginner - iOS Developer from Bangladesh</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/aa373006b249ab38a48d5f848ada44f5a0097fd4591f72ec1027414d9a1b89f0/68747470733a2f2f632e74656e6f722e636f6d2f666c666c433647467a4f3841414141642f73756c74616e2d616c7265666165692d70726f6772616d6d65722e676966">
@@ -8,7 +6,7 @@ I’m currently working at **BJIT Limited as a Software Engineer (iOS Developer)
 
 ## 🧠 What I'm currently learning
 
-🌱 I’m currently learning `Combine, OpenSSL, ASN.1, and Crypto` to enhance my development abilities and stay current with the evolving technology.
+🌱 I’m currently learning `Combine, OpenSSL, ASN.1, and Cryptography` to enhance my development abilities and stay current with the evolving technology.
 
 ## 📫 How to reach me
 
@@ -18,7 +16,7 @@ I’m currently working at **BJIT Limited as a Software Engineer (iOS Developer)
 
 <p align="left">
 <a href="https://www.linkedin.com/in/faiazrahman100/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ummehabibaewu90/" height="30" width="40" /></a>
-<a href="https://join.skype.com/invite/wZVL0ENjYudY" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174869.png" alt="https://join.skype.com/invite/wZVL0ENjYudY" height="40" width="40" /></a>
+<a href="https://join.skype.com/invite/ryHq9vJ1C1dX" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/174/174869.png" alt="https://join.skype.com/invite/wZVL0ENjYudY" height="40" width="40" /></a>
 </p>
 
 ## 💻 Work Experience
