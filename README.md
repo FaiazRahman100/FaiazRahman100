@@ -24,26 +24,12 @@ I’m currently working at **BJIT Limited as a Software Engineer (iOS Developer)
 ## 💻 Work Experience
 
 `- BJIT Limited, [Software Engineer], [August, 2023 - Present (Full Time)]` <br>
-     `Responsibilities:` <br>
-      • Design and build applications for the iOS platform
-      • Ensure the performance and quality of applications
-      • Identify and correct bottlenecks and fix bugs
-      • Collaborated effectively with cross-functional teams
 
 `- BJIT Academy, [Trainee Software Engineer (iOS Developer)], [Nov, 2022 - Feb,2023]` <br>
-     `Responsibilities:` <br>
-      • Design algorithms and flowcharts
-      • Produce clean, efficient code based on specifications
-      • Integrate software components and third-party programs
-      • Verify and deploy programs and systems
-      • Troubleshoot, debug and upgrade existing software
-      • Gather and evaluate user feedback
+     
 `- sideSkill BD, [Content Creator], [Jan 2019 -Feb 2022]` <br>
 Managed and operated ”sideSkill BD” YouTube channel, showcasing technical expertise in programming and software through uploading
 tutorials, tips, and tricks videos. <br>
-     `Responsibilities:` <br>
-      • Creating videos on Windows and macOS tips and tricks
-      • Creating videos on basic programming concepts Mastering iOS App Testing: Unit, Integration, and UI Testing with Xcode, TDD and XCTest in BANGLA
 
 ## 🎓 Education
 
@@ -58,22 +44,22 @@ tutorials, tips, and tricks videos. <br>
 
 ## 🌟 Projects
 
-`- Cricky - The Complete Cricket App for iOS Devices` - `2023`
-Cricky is a comprehensive cricket app for iOS devices, offering live scores, fixtures, rankings, and player data. It seamlessly integrates real-time match data, player information, and tournament fixtures through the Cricket API by Sportmonks.
-             • Technology used: UIKit, SDWebImage, CoreData, LZViewPager.
-             • Well-structured and scalable architecture, utilising MVVM, Builder,                  and Singleton design patterns.
+`- Cricky - The Complete Cricket App for iOS Devices` - `2023` <br>
+Cricky is a comprehensive cricket app for iOS devices, offering live scores, fixtures, rankings, and player data. It seamlessly integrates real-time match data, player information, and tournament fixtures through the Cricket API by Sportmonks. <br>
+             • Technology used: UIKit, SDWebImage, CoreData, LZViewPager. <br>
+             • Well-structured and scalable architecture, utilising MVVM, Builder,and Singleton design patterns. <br>
 
-`- Real - time News App for iOS Devices` - `2023`
-A dynamic iOS news app that offers users the latest news across various topics while enabling personalization through article bookmarking and direct source reading.
-             • Technology used: UIKit, SDWebImage, CoreData.
-             • NewsAPI.org API for real-time news articles and features pagination                for enhanced browsing.
-`- BJIT Xpress - Bus seat booking app for iOS devices` - `2023`
-An intuitive app enabling users to view and book available seats on, check bus availability, and access booking history. Provides real-time information on seats booked by other passengers.
-             • Technology used: SwiftUI, CoreLocation, CoreData and CloudKit.
-             • SwiftUI for modern and declarative user interface development.
-`- Basha Koi - Rental Property Finder` - `2021`
-”Basha Koi” helps users to easily search for addresses, square footage, house numbers, and rental prices in various areas, simplifying the process of finding their ideal rental property.
-             • Technology used: UIKit, CoreData.
+`- Real - time News App for iOS Devices` - `2023` <br>
+A dynamic iOS news app that offers users the latest news across various topics while enabling personalization through article bookmarking and direct source reading. <br>
+             • Technology used: UIKit, SDWebImage, CoreData. <br>
+             • NewsAPI.org API for real-time news articles and features pagination for enhanced browsing. <br>
+`- BJIT Xpress - Bus seat booking app for iOS devices` - `2023` <br>
+An intuitive app enabling users to view and book available seats on, check bus availability, and access booking history. Provides real-time information on seats booked by other passengers. <br>
+             • Technology used: SwiftUI, CoreLocation, CoreData and CloudKit. <br>
+             • SwiftUI for modern and declarative user interface development. <br>
+`- Basha Koi - Rental Property Finder` - `2021` <br>
+”Basha Koi” helps users to easily search for addresses, square footage, house numbers, and rental prices in various areas, simplifying the process of finding their ideal rental property. <br>
+             • Technology used: UIKit, CoreData. <br>
 
 ## 📝 Publication
 
