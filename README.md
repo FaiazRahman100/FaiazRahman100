@@ -23,8 +23,8 @@ I’m currently working at **BJIT Limited as a Software Engineer (iOS Developer)
 
 ## 💻 Work Experience
 
-`- BJIT Limited, [Software Engineer], [August, 2023 - Present (Full Time)]`
-     `Responsibilities:`
+`- BJIT Limited, [Software Engineer], [August, 2023 - Present (Full Time)]` <br>
+     `Responsibilities:` <br>
       • Design and build applications for the iOS platform
       • Ensure the performance and quality of applications
       • Identify and correct bottlenecks and fix bugs
