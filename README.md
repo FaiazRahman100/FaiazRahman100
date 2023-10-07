@@ -30,18 +30,18 @@ I’m currently working at **BJIT Limited as a Software Engineer (iOS Developer)
       • Identify and correct bottlenecks and fix bugs
       • Collaborated effectively with cross-functional teams
 
-`- BJIT Academy, [Trainee Software Engineer (iOS Developer)], [Nov, 2022 - Feb,2023]`
-     `Responsibilities`
+`- BJIT Academy, [Trainee Software Engineer (iOS Developer)], [Nov, 2022 - Feb,2023]` <br>
+     `Responsibilities:` <br>
       • Design algorithms and flowcharts
       • Produce clean, efficient code based on specifications
       • Integrate software components and third-party programs
       • Verify and deploy programs and systems
       • Troubleshoot, debug and upgrade existing software
       • Gather and evaluate user feedback
-`- sideSkill BD, [Content Creator], [Jan 2019 -Feb 2022]`
+`- sideSkill BD, [Content Creator], [Jan 2019 -Feb 2022]` <br>
 Managed and operated ”sideSkill BD” YouTube channel, showcasing technical expertise in programming and software through uploading
-tutorials, tips, and tricks videos.
-     `Responsibilities:`
+tutorials, tips, and tricks videos. <br>
+     `Responsibilities:` <br>
       • Creating videos on Windows and macOS tips and tricks
       • Creating videos on basic programming concepts Mastering iOS App Testing: Unit, Integration, and UI Testing with Xcode, TDD and XCTest in BANGLA
 
