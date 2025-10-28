@@ -62,9 +62,3 @@ An intuitive app enabling users to view and book available seats on, check bus a
 
 - Awarded Dean’s Scholarship East West University (Occupied this scholarship for being one of the top performers of the batch)
 - Published a paper at the International Conference on Computer and Information Technology held by IEEE.
-
-## 📈 GitHub Stats
-
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=faiazrahman100&show_icons=true&locale=en" alt="faiazrahman100" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=faiazrahman100&" alt="faiazrahman100" /></p>
