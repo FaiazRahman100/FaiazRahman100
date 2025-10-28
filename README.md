@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faiaz Rahman</h1>
 <h3 align="center">Software Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/aa373006b249ab38a48d5f848ada44f5a0097fd4591f72ec1027414d9a1b89f0/68747470733a2f2f632e74656e6f722e636f6d2f666c666c433647467a4f3841414141642f73756c74616e2d616c7265666165692d70726f6772616d6d65722e676966">
 
 I’m currently working at **BJIT Limited as a Software Engineer**. As a Software Engineer, with a passion for innovation and a dedication to delivering impactful results, I thrive on solving complex problems, crafting intuitive user interfaces, and writing clean, reusable, and test-driven code. I am committed to personal growth, enjoy sharing with teammates, and firmly believe that nothing can defeat me as long as I choose to persevere.
 
